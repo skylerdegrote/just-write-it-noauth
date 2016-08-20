@@ -8,7 +8,7 @@ My name is Skyler DeGrote. I am a writer, author and software engineer. I love l
 * PHP
 * SASS
 
-### Future updates
+### Future updates - User Authentication
 * MySQL
 * PHPmyAdmin
 
