@@ -6,9 +6,11 @@ My name is Skyler DeGrote. I am a writer, author and software engineer. I love l
 
 ### Languages Used
 * PHP
+* SASS
+
+### Future updates
 * MySQL
 * PHPmyAdmin
-* SASS
 
 ### The Plan
 I plan to include lots of things on this website that have to do with writing. First and foremost though, I must mention that I am a fiction writer so I know nothing about non-fiction writing. All the resources that I post to this website are fiction-writing based.
