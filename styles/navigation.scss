@@ -1,9 +1,6 @@
 @import "variables";
 
-body
-{
-  background-color: $darkBlue;
-}
+
 
 #active {
   text-decoration: underline;
@@ -18,7 +15,6 @@ body
   font-weight: 400;
   //font-size: $titleFontSize;
   font-size: $navFontSize;
-
 }
 
 #nav > a

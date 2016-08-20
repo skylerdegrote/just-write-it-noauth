@@ -10,6 +10,8 @@
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   //text-align:center; /*Specify the alignment of the whole UL if UL is not width:100%;*/
   letter-spacing:normal;
+  margin-bottom:100px;
+
 }
 
 #ddmenu ul
@@ -225,7 +227,7 @@
 
 #ddmenu .menu-icon
 {
-  margin-top:20px;
+  //margin-top:20px;
   display:none; /* hide menu icon initially */
 }
 
@@ -233,11 +235,12 @@
 
 
 /*styles for mobile*/
-@media only screen and (max-width: 700px)
+@media only screen and (max-width: 890px)
 {
   #ddmenu .column.mayHide {
     display:none;
-    margin-top:100px;  margin-bottom:50px;
+    margin-top:100px;
+    margin-bottom:50px;
   }
 
   #ddmenu ul

@@ -1,5 +1,9 @@
 @import "variables";
+
+$logo_mobile: "../logo/logo-mobile.png";
+$logo_web: "logo/logo-web.png";
 // Header Styles
+
 header {
   background-color: $darkBlue;
   height: 150px;
@@ -16,13 +20,14 @@ footer {
   float: left;
   margin-left: 40px;
   margin-top:10px;
+  display: block;
 }
 @media only screen and (max-width: 700px){
-.logoImg img{
-  height: 100px;
-  float: left;
-  margin-left: 40px;
-  margin-top:10px;
+  .logoImg img{
+    min-height: 100px;
+    float: left;
+    margin-left: 40px;
+    margin-bottom:100px;
+  }
 }
 
-}

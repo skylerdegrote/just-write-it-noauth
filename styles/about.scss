@@ -1,6 +1,5 @@
 @import "variables";
-
-
+@import "main";
 
 main {
   background: $teal;
@@ -15,10 +14,68 @@ h1 {
   margin: 0;
 }
 
-.aboutWriteIt {
-  border-left: solid $darkBlue 4px;
-  border-right: solid $darkBlue 4px;
+h3 {
+  color: $darkBlue;
+  padding:0;
+  text-align: left;
+  margin: 0 45px;
+}
+
+.right-border
+{
+  border-style : Solid;
+  border-color : #171144;
+  border-color : rgba(23, 17, 68, 1);
+  border-width : 4px;
+  width : 36px;
+  height : 178px;
+  border-left:none;
+  float: left;
+  margin-top:90px;
+}
+.left-border
+{
+  border-style : Solid;
+  border-color : #171144;
+  border-color : rgba(23, 17, 68, 1);
+  border-width : 4px;
+  width : 36px;
+  height : 178px;
+  border-right:none;
+  float: left;
+  margin-top:90px;
+  margin-left: 10%;
+  margin-right:0;
+}
+
+.aboutWriteIt, .aboutAuthor {
   min-height:300px;
-  max-width: 500px;
-  margin:100px;
+  width: 30%;
+  margin-top: 100px;
+  float: left;
+}
+
+//mobile device changes
+@media only screen and (max-width: 900px) {
+  .aboutWriteIt, .aboutAuthor {
+    width: 50%;
+    //margin: auto;
+  }
+  .right-border {
+    clear: right;
+  }
+  .left-border {
+    clear: left;
+  }
+  section {
+    margin-left:20%;
+    padding:0;
+    width:80%;
+  }
+  h3 {
+    //margin-top:20%;
+    margin:0;
+    padding:0;
+  }
+;
 }

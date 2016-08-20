@@ -14,9 +14,25 @@ $pageTitle = "About Just Write It";
 <body>
 <?php include ('includes/header.php') ?>
 <main>
-    <div class="aboutWriteIt">
+    <section>
+        <div class="left-border"></div>
+        <div class="aboutWriteIt">
+            <h3>About Just Write It</h3>
+        </div>
+        <div class="right-border"></div>
+    </section>
+    <section>
+        <div class="left-border"></div>
+        <div class="aboutAuthor">
+            <h3>About Author</h3>
 
-    </div>
+        </div>
+        <div class="right-border"></div>
+    </section>
+
+
+
+
 
 </main>
 <?php include('includes/footer.php') ?>

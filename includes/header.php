@@ -1,4 +1,14 @@
+<?php
+//require_once '../mobile_detect.php';
+//$detect = new Mobile_Detect;
+//$logo_mobile = "../images/logo/logo-mobile.png";
+//    $logo_web = "../images/logo/logo-web.png";
+//
+//    if ( stristr($ua, "Mobile" )) {
+//        $DEVICE_TYPE="MOBILE";
+//    }
 
+?>
 <!doctype>
 <html>
     <head>
@@ -7,8 +17,10 @@
     </head>
     <body>
     <header>
-        <div class="logoImg"> <img src="/images/logo/logo-web.png"></div>
-        <div class="logo"></div>
+        <div class="logoImg">
+            <img src="../images/logo-web.png"/>
+        </div>
+<!--        <div class="logo"></div>-->
                 <?php
                 include('navigation.php');
                 ?>

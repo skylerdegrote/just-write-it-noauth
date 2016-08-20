@@ -1,3 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #5ec2a4; }
+
+main {
+  min-height: 700px;
+  margin: 0;
+  padding: 0; }
+
+.alignRight {
+  float: right;
+  padding-right: 50px; }
+
 main {
   background: #5ec2a4; }
 
@@ -9,11 +23,59 @@ h1 {
   padding: 50px;
   margin: 0; }
 
-.aboutWriteIt {
-  border-left: solid #171144 4px;
-  border-right: solid #171144 4px;
+h3 {
+  color: #171144;
+  padding: 0;
+  text-align: left;
+  margin: 0 45px; }
+
+.right-border {
+  border-style: Solid;
+  border-color: #171144;
+  border-color: #171144;
+  border-width: 4px;
+  width: 36px;
+  height: 178px;
+  border-left: none;
+  float: left;
+  margin-top: 90px; }
+
+.left-border {
+  border-style: Solid;
+  border-color: #171144;
+  border-color: #171144;
+  border-width: 4px;
+  width: 36px;
+  height: 178px;
+  border-right: none;
+  float: left;
+  margin-top: 90px;
+  margin-left: 10%;
+  margin-right: 0; }
+
+.aboutWriteIt, .aboutAuthor {
   min-height: 300px;
-  max-width: 500px;
-  margin: 100px; }
+  width: 30%;
+  margin-top: 100px;
+  float: left; }
+
+@media only screen and (max-width: 900px) {
+  .aboutWriteIt, .aboutAuthor {
+    width: 50%; }
+
+  .right-border {
+    clear: right; }
+
+  .left-border {
+    clear: left; }
+
+  section {
+    margin-left: 20%;
+    padding: 0;
+    width: 80%; }
+
+  h3 {
+    margin: 0;
+    padding: 0; } }
 
 /*# sourceMappingURL=about.css.map */
