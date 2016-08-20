@@ -1,0 +1,22 @@
+header {
+  background-color: #171144;
+  height: 150px; }
+
+footer {
+  background-color: #171144;
+  min-height: 150px; }
+
+.logoImg img {
+  height: 130px;
+  float: left;
+  margin-left: 40px;
+  margin-top: 10px; }
+
+@media only screen and (max-width: 700px) {
+  .logoImg img {
+    height: 100px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 10px; } }
+
+/*# sourceMappingURL=header-footer.css.map */

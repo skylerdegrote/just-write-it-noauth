@@ -1,0 +1,26 @@
+@import "variables";
+
+// General Styles
+body {
+  margin:0;
+  padding:0;
+  background-color: $darkBlue;
+}
+main {
+  min-height: 700px;
+  margin:0;
+  padding:0;
+}
+
+.alignRight {
+  float: right;
+  padding-right: 50px;
+}
+
+.logo-small {
+
+}
+
+.logo-big {
+
+}

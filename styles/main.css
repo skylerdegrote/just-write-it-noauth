@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #171144; }
+
+main {
+  min-height: 700px;
+  margin: 0;
+  padding: 0; }
+
+.alignRight {
+  float: right;
+  padding-right: 50px; }
+
+/*# sourceMappingURL=main.css.map */

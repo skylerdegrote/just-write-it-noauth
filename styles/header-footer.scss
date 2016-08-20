@@ -1,0 +1,28 @@
+@import "variables";
+// Header Styles
+header {
+  background-color: $darkBlue;
+  height: 150px;
+}
+
+// Footer Styles
+footer {
+  background-color: $darkBlue;
+  min-height: 150px;
+}
+
+.logoImg img{
+  height: 130px;
+  float: left;
+  margin-left: 40px;
+  margin-top:10px;
+}
+@media only screen and (max-width: 700px){
+.logoImg img{
+  height: 100px;
+  float: left;
+  margin-left: 40px;
+  margin-top:10px;
+}
+
+}
