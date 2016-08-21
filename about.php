@@ -10,6 +10,8 @@ $pageTitle = "About Just Write It";
 <head>
     <title><?php echo $pageTitle ?></title>
     <link rel="stylesheet" href="styles/about.css">
+    <link href="styles/navigation.css" rel="stylesheet" type="text/css" />
+
 </head>
 <body>
 <?php include ('includes/header.php') ?>

@@ -14,11 +14,16 @@ h1 {
   margin: 0;
 }
 
-h3 {
-  color: $darkBlue;
+nav h3 {
+  color: $orange;
   padding:0;
   text-align: left;
-  margin: 0 45px;
+}
+
+section{
+  //margin:10px 0;
+  padding: 60px 10px ;
+  float: left;
 }
 
 .right-border
@@ -44,19 +49,20 @@ h3 {
   border-right:none;
   float: left;
   margin-top:90px;
-  margin-left: 10%;
+  margin-left:0;
   margin-right:0;
 }
 
 .aboutWriteIt, .aboutAuthor {
   min-height:300px;
   width: 30%;
+  min-width: 300px;
   margin-top: 100px;
   float: left;
 }
 
 //mobile device changes
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 760px) {
   .aboutWriteIt, .aboutAuthor {
     width: 50%;
     //margin: auto;
