@@ -17,25 +17,16 @@ $pageTitle = "About Just Write It";
 <?php include ('includes/header.php') ?>
 <main>
     <section>
-        <div class="left-border"></div>
-        <div class="aboutWriteIt">
-            <h3>About Just Write It</h3>
-        </div>
-        <div class="right-border"></div>
+        <h3>About Just Write It</h3>
+        <p>Just Write It is a website filled with fiction writing resources.
+            I hope to eventually cover more than just fiction writing but for now,
+            that is what I know so that is what I'll include.</p>
     </section>
     <section>
-        <div class="left-border"></div>
-        <div class="aboutAuthor">
-            <h3>About Author</h3>
-        </div>
-        <div class="right-border"></div>
+        <h3>About Author</h3>
+        <p>My Name is Skyler. I am a writer, programmer and cat lover.
+            I've been writing since I was 12 and I've been an author since I was 18.</p>
     </section>
-    <div class="clearfix"></div>
-
-
-
-
-
 </main>
 <?php include('includes/footer.php') ?>
 </body>

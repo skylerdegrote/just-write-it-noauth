@@ -1,8 +1,30 @@
 @import "variables";
 @import "main";
 
-main {
-  background: $teal;
+//main {
+//  background: $teal;
+//  margin:0;
+//}
+main{
+  clear: both;
+  display: block;
+}
+main section {
+  padding-top: 60px;
+  width: 25%;
+  float: left;
+}
+main section:first-child{
+  margin-left: 20%;
+}main section:last-child{
+  margin-left: 5%;
+}
+
+
+h3 {
+  font-family: sans-serif;
+  padding:0;
+  margin:0;
 }
 
 h1 {
@@ -20,80 +42,80 @@ nav h3 {
   text-align: left;
 }
 
-section{
-  //margin:10px 0;
-  padding-right: 10px ;
-  float: left;
-  margin-left: 0;
-}
 
-.right-border
-{
-  border-style : Solid;
-  border-color : #171144;
-  border-color : rgba(23, 17, 68, 1);
-  border-width : 4px;
-  width : 36px;
-  height : 178px;
-  border-left:none;
-  float: left;
-  margin-top:90px;
-}
-.left-border
-{
-  border-style : Solid;
-  border-color : #171144;
-  border-color : rgba(23, 17, 68, 1);
-  border-width : 4px;
-  width : 36px;
-  height : 178px;
-  border-right:none;
-  float: left;
-  margin-top:90px;
-  margin-left:0;
-  margin-right:0;
-}
 
-.aboutWriteIt, .aboutAuthor {
-  min-height:300px;
-  width: 30%;
-  min-width: 300px;
-  margin-top: 100px;
-  float: left;
-}
+//section{
+//  float: left;
+//  margin-left: 0;
+//}
 
-//mobile device changes
-@media only screen and (max-width: 1200px) and (min-width: 800px) {
+//.right-border
+//{
+//  border-style : Solid;
+//  border-color : #171144;
+//  border-color : rgba(23, 17, 68, 1);
+//  border-width : 4px;
+//  width : 36px;
+//  height : 208px;
+//  border-left:none;
+//  float: left;
+//  margin-top:90px;
+//}
+//.left-border
+//{
+//  border-style : Solid;
+//  border-color : #171144;
+//  border-color : rgba(23, 17, 68, 1);
+//  border-width : 4px;
+//  width : 36px;
+//  height : 208px;
+//  border-right:none;
+//  float: left;
+//  margin-top:90px;
+//  margin-left:0;
+//  margin-right:0;
+//}
+//
+//.aboutWriteIt, .aboutAuthor {
+//  min-height:200px;
+//  max-width: 50%;
+//  margin-top: 50px;
+//}
 
-  section {
-    margin-left: 20%;
+////mobile device changes
+@media only screen and (max-width: 100px) and (min-width: 810px) {
+
+  
+  main section {
+    margin-left: 25%;
     padding: 0;
-    max-width: 800px;
+    width: 50%;
     float: none;
   }
 }
-
-
+//
+//
 @media only screen and (max-width: 800px) {
-  section {
-    margin-left: 20%;
+  main section {
+    margin-left: 15%;
+    width:400px;
   }
 }
-
-
-@media only screen and (max-width: 1200px){
-  .aboutWriteIt, .aboutAuthor {
-    width: 70%;
-  }
-  .right-border {
-    clear: right;
-  }
-  .left-border {
-    clear: left;
-  }
-
-  h3 {
-    margin:0;
-    padding:0;
-  }
-}
+//
+//
+//@media only screen and (max-width: 1200px){
+//  .aboutWriteIt, .aboutAuthor {
+//    width: 70%;
+//  }
+//  .right-border {
+//    clear: right;
+//  }
+//  .left-border {
+//    clear: left;
+//  }
+//
+//  h3 {
+//    margin:0;
+//    padding:0;
+//  }
+//}
