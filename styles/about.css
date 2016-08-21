@@ -32,8 +32,9 @@ nav h3 {
   text-align: left; }
 
 section {
-  padding: 60px 10px;
-  float: left; }
+  padding-right: 10px;
+  float: left;
+  margin-left: 0; }
 
 .right-border {
   border-style: Solid;
@@ -66,20 +67,24 @@ section {
   margin-top: 100px;
   float: left; }
 
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 1200px) and (min-width: 800px) {
+  section {
+    margin-left: 20%;
+    padding: 0;
+    max-width: 800px;
+    float: none; } }
+@media only screen and (max-width: 800px) {
+  section {
+    margin-left: 20%; } }
+@media only screen and (max-width: 1200px) {
   .aboutWriteIt, .aboutAuthor {
-    width: 50%; }
+    width: 70%; }
 
   .right-border {
     clear: right; }
 
   .left-border {
     clear: left; }
-
-  section {
-    margin-left: 20%;
-    padding: 0;
-    width: 80%; }
 
   h3 {
     margin: 0;

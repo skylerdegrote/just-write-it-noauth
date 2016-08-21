@@ -22,8 +22,9 @@ nav h3 {
 
 section{
   //margin:10px 0;
-  padding: 60px 10px ;
+  padding-right: 10px ;
   float: left;
+  margin-left: 0;
 }
 
 .right-border
@@ -61,11 +62,25 @@ section{
   float: left;
 }
 
+//@media only screen and (min-width:1000px) and (max-width: 660px){
 //mobile device changes
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 1200px) and (min-width: 800px) {
+
+  section {
+    margin-left: 20%;
+    padding: 0;
+    max-width: 800px;
+    float: none;
+  }
+}
+@media only screen and (max-width: 800px) {
+  section {
+    margin-left: 20%;
+  }
+}
+@media only screen and (max-width: 1200px){
   .aboutWriteIt, .aboutAuthor {
-    width: 50%;
-    //margin: auto;
+    width: 70%;
   }
   .right-border {
     clear: right;
@@ -73,15 +88,9 @@ section{
   .left-border {
     clear: left;
   }
-  section {
-    margin-left:20%;
-    padding:0;
-    width:80%;
-  }
+
   h3 {
-    //margin-top:20%;
     margin:0;
     padding:0;
   }
-;
 }
