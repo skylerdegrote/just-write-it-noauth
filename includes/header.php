@@ -17,8 +17,8 @@
     </head>
     <body>
     <header>
-        <div class="logoImg">
-            <img src="../images/logo-web.png"/>
+        <div class=" spritelogo">
+            <img src="../images/spritesheet.png"/>
         </div>
 <!--        <div class="logo"></div>-->
                 <?php
