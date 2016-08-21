@@ -62,7 +62,6 @@ section{
   float: left;
 }
 
-//@media only screen and (min-width:1000px) and (max-width: 660px){
 //mobile device changes
 @media only screen and (max-width: 1200px) and (min-width: 800px) {
 
@@ -73,11 +72,15 @@ section{
     float: none;
   }
 }
+
+
 @media only screen and (max-width: 800px) {
   section {
     margin-left: 20%;
   }
 }
+
+
 @media only screen and (max-width: 1200px){
   .aboutWriteIt, .aboutAuthor {
     width: 70%;
