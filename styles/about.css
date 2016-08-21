@@ -12,6 +12,9 @@ main {
   float: right;
   padding-right: 50px; }
 
+.clearfix {
+  clear: both; }
+
 main {
   background: #5ec2a4; }
 

@@ -27,10 +27,10 @@ $pageTitle = "About Just Write It";
         <div class="left-border"></div>
         <div class="aboutAuthor">
             <h3>About Author</h3>
-
         </div>
         <div class="right-border"></div>
     </section>
+    <div class="clearfix"></div>
 
 
 
