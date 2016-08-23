@@ -83,24 +83,28 @@ nav h3 {
 //}
 
 ////mobile device changes
-@media only screen and (max-width: 100px) and (min-width: 810px) {
+@media only screen and (max-width: 1000px) and (min-width: 810px) {
 
   
   main section {
     margin-left: 25%;
     padding: 0;
     width: 50%;
-    float: none;
+    float: left;
   }
 }
 //
 //
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 810px) {
   main section {
-    margin-left: 15%;
-    width:400px;
+    margin-left: 10%;
+    padding: 0;
+    min-width:70%;
+    float: none;
+    clear: both;
   }
 }
+
 //
 //
 //@media only screen and (max-width: 1200px){
