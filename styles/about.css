@@ -19,24 +19,16 @@ main section {
   width: 25%;
   float: left; }
 
-main section:first-child {
-  margin-left: 20%; }
-
-main section:last-child {
-  margin-left: 5%; }
-
 h3 {
   font-family: sans-serif;
-  padding: 0;
-  margin: 0; }
+  padding: 0; }
 
 h1 {
   color: #171144;
   font-family: sans-serif;
   font-size: 60px;
   text-align: center;
-  padding: 50px;
-  margin: 0; }
+  padding: 50px; }
 
 nav h3 {
   color: #f69d1d;
@@ -45,16 +37,14 @@ nav h3 {
 
 @media only screen and (max-width: 1000px) {
   main section {
-    margin-left: 25%;
-    padding: 0;
-    width: 50%;
-    float: left; } }
+    padding-left: 10px;
+    width: 40%;
+    margin: 0 auto; } }
 @media only screen and (max-width: 810px) {
   main section {
-    margin-left: 10%;
     padding: 0;
+    margin: 0 auto;
     min-width: 70%;
-    float: none;
     clear: both; } }
 
 /*# sourceMappingURL=about.css.map */

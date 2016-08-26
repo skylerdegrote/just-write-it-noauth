@@ -16,6 +16,7 @@ $pageTitle = "About Just Write It";
 <body>
 <?php include ('includes/header.php') ?>
 <main>
+<!--    make main have a width with 0 auto margin   -->
     <section>
         <h3>About Just Write It</h3>
         <p>Just Write It is a website filled with fiction writing resources.

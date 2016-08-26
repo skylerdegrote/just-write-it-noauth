@@ -14,17 +14,17 @@ main section {
   width: 25%;
   float: left;
 }
-main section:first-child{
-  margin-left: 20%;
-}main section:last-child{
-  margin-left: 5%;
-}
+//main section:first-child{
+//  margin-left: 20%;
+//}main section:last-child{
+//  margin-left: 5%;
+//}
 
 
 h3 {
   font-family: sans-serif;
   padding:0;
-  margin:0;
+  //margin:0;
 }
 
 h1 {
@@ -33,7 +33,7 @@ h1 {
   font-size: 60px;
   text-align: center;
   padding: 50px;
-  margin: 0;
+  //margin: 0;
 }
 
 nav h3 {
@@ -85,22 +85,24 @@ nav h3 {
 ////mobile device changes
 @media only screen and (max-width: 1000px) {
 
-  
+
   main section {
-    margin-left: 25%;
-    padding: 0;
-    width: 50%;
-    float: left;
+    //margin-left: 25%;
+    padding-left: 10px;
+    width: 40%;
+    //float: left;
+    margin: 0 auto;
   }
 }
 //
 //
 @media only screen and (max-width: 810px) {
   main section {
-    margin-left: 10%;
+    //margin-left: 10%;
     padding: 0;
+    margin: 0 auto;
     min-width:70%;
-    float: none;
+    //float: none;
     clear: both;
   }
 }
