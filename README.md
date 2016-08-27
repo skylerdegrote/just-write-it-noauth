@@ -17,9 +17,8 @@ I plan to include lots of things on this website that have to do with writing. F
 This is why I am going to open it up to the users! As a member, you'll be able to submit resources, blog posts, comment on posts, and much more! I'm also going to attempt to code a discussion board area for members to talk about their projects.
 
 ### Social Media
-@justwriteitnow
+[@justwriteitnow](https://twitter.com/justwriteitnow "Just Write It Twitter")
 
-meetup.com/creative-writing-rochesterMN
+https://www.meetup.com/Creative-Writing-RochesterMN/
 
-justwriteit.slack.com
-
+https://justwriteit.slack.com/ - To join the slack group, please visit this page: https://justwriteit.signup.team/
