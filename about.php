@@ -9,19 +9,22 @@ $pageTitle = "About";
 <html>
 <head>
     <title><?php echo $pageTitle ?></title>
-    <link rel="stylesheet" href="styles/main.css">
+<!--    <link rel="stylesheet" href="styles/main.css">-->
     <link rel="stylesheet" href="styles/about.css">
 </head>
 <body>
 <?php include ('includes/header.php') ?>
-<main>
+<div class="container">
+
+    <br>
     <div class="section">
-        something
+        s1mething
     </div>
     <div class="section">
-        something
+        s2mething
     </div>
-</main>
+</div>
+
 <?php include('includes/footer.php') ?>
 </body>
 </html>
