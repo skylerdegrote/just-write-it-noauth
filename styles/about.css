@@ -26,8 +26,10 @@ body {
   padding: 0.5em; }
 
 @media screen and (max-width: 900px) {
+  .container {
+    width: 500px; }
+
   .section {
-    width: 100%;
-    text-align: center; } }
+    width: 90%; } }
 
 /*# sourceMappingURL=about.css.map */
