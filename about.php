@@ -31,12 +31,13 @@ include ('includes/header.php')
             I've been an author since I was 18.</p>
     </div>
 </div>
+</body>
+</html>
 
 
 
-                        </body>
-                    </html>
-                    <!--<html>-->
+
+<!--<html>-->
 <!--<head>-->
 <!--    <title>--><?php //echo $pageTitle ?><!--</title>-->
 <!--    <link rel="stylesheet" href="styles/about.css">-->
