@@ -1,50 +1,23 @@
 body {
-  margin: 0;
-  padding: 0;
-  background-color: #5ec2a4; }
+  margin: 0; }
 
-.alignRight {
-  float: right;
-  padding-right: 50px; }
-
-.clearfix {
-  clear: both; }
-
-main {
-  clear: both;
-  display: block; }
-
-main section {
-  padding-top: 60px;
-  width: 25%;
+.container {
+  margin: 0 auto;
+  max-width: 1000px;
+  display: inline;
   float: left; }
 
-h3 {
-  font-family: sans-serif;
-  padding: 0; }
+.section {
+  width: 40%;
+  float: left;
+  border: 1px solid red;
+  padding: 0.5em; }
 
-h1 {
-  color: #171144;
-  font-family: sans-serif;
-  font-size: 60px;
-  text-align: center;
-  padding: 50px; }
-
-nav h3 {
-  color: #f69d1d;
-  padding: 0;
-  text-align: left; }
-
-@media only screen and (max-width: 1000px) {
-  main section {
-    padding-left: 10px;
-    width: 40%;
-    margin: 0 auto; } }
-@media only screen and (max-width: 810px) {
-  main section {
-    padding: 0;
-    margin: 0 auto;
-    min-width: 70%;
-    clear: both; } }
+@media screen and (max-width: 1350px) {
+  .section {
+    width: 40%; } }
+@media screen and (max-width: 900px) {
+  .section {
+    width: 90%; } }
 
 /*# sourceMappingURL=about.css.map */
