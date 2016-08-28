@@ -1,3 +1,5 @@
+ 
+![Just Write It Logo](images/logo-web.png "Just Write It Logo")
 # Just Write It
 A Writing Resource website for anyone interested in writing
 
