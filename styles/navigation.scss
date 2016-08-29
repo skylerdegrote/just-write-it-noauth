@@ -32,9 +32,22 @@
 .mdl-layout__drawer-button{
   display: none;
 }
+
+.top-heading{
+  margin-top:100px;
+}
+
+#ddmenu{
+  margin-top:100px;
+  margin-right:90px;
+}
+
 @media screen and (max-width: 1050px) {
   .mdl-layout__drawer-button{
     display: block;
+  }
+  #ddmenu{
+    display: none;
   }
 }
 
@@ -94,28 +107,29 @@
 //  right: -0.313em; /* 5 */
 //}
 //
-///* first level */
-//
-//#nav > ul
-//{
-//  height: 60px;
-//  background-color: $darkBlue;
-//}
-//#nav > ul > li
-//{
-//  width: 15%;
-//  margin: 0 20px;
-//  height: 100%;
-//  float: left;
-//}
-//#nav > ul > li > a
-//{
-//  height: 100%;
-//  font-size: 1.5em; /* 24 */
-//  line-height: 2.5em; /* 60 (24) */
-//  text-decoration:none;
-//  text-align: center;
-//}
+/* first level */
+
+#nav > ul
+{
+  height: 60px;
+  background-color: $darkBlue;
+}
+#nav > ul > li
+{
+  width: 15%;
+  margin: 0 20px;
+  height: 100%;
+  float: left;
+
+}
+#nav > ul > li > a
+{
+  height: 100%;
+  font-size: 1.5em; /* 24 */
+  line-height: 2.5em; /* 60 (24) */
+  text-decoration:none;
+  text-align: center;
+}
 
 
 
