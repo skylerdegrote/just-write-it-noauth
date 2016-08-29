@@ -34,7 +34,7 @@
                                 <a class="top-heading" href="../about.php">About</a>
                             </li>
                             <li>
-                                <span class="top-heading">Resources</span>
+                                <span class="top-heading"><a href="../resources.php">Resources</a> </span>
                                 <i class="caret"></i>
                                 <div class="dropdown">
                                     <div class="dd-inner">

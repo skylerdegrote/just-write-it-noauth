@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #5ec2a4; }
+
+.alignRight {
+  float: right;
+  padding-right: 50px; }
+
+.clearfix {
+  clear: both; }
+
+.container {
+  min-height: 650px; }
+
+/*# sourceMappingURL=resources.css.map */

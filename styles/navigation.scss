@@ -3,6 +3,9 @@
 header{
   position: relative;
 }
+a{
+  text-decoration: none;
+}
 .mdl-layout__header{
   background-color: $darkBlue;
 }
