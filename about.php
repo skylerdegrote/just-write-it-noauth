@@ -9,11 +9,11 @@ $pageTitle = "About";
 <html>
 <head>
     <title><?php echo $pageTitle ?></title>
-<!--    <link rel="stylesheet" href="styles/main.css">-->
+    <link rel="stylesheet" href="styles/main.css">
     <link rel="stylesheet" href="styles/about.css">
 </head>
 <body>
-<?php include ('includes/header.php') ?>
+<?php include ('includes/navigation.php') ?>
 <div class="container">
 
     <br>
