@@ -1,12 +1,11 @@
 @import "variables";
 
-
+header{
+  position: relative;
+}
 .mdl-layout__header{
   background-color: $darkBlue;
 }
-
-
-
 
 .mdl-layout-title img{
   height:150px;

@@ -17,10 +17,7 @@
     </head>
     <body>
     <header>
-        <div class=" spritelogo">
-            <img src="../images/spritesheet.png"/>
-        </div>
-<!--        <div class="logo"></div>-->
+
                 <?php
                 include('navigation.php');
                 ?>

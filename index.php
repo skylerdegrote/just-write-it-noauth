@@ -13,12 +13,18 @@ $pageTitle = "Home";
     <link rel="stylesheet" href="styles/home.css">
 </head>
 <body>
-<?php include ('includes/header.php') ?>
-    <main>
-        <h1>To be a Writer, <br>put one word in front of another.</h1>
-        <h3>Just Write It</h3>
+<?php include ('includes/navigation.php') ?>
 
-    </main>
-    <?php include('includes/footer.php') ?>
+
+
+  <div class="container">
+      <h1>To be a Writer, <br>put one word in front of another.</h1>
+      <h3>Just Write It</h3>
+
+
+  </div>
+
+
+<?php include('includes/footer.php') ?>
 </body>
 </html>
