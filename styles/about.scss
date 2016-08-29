@@ -12,6 +12,9 @@
   float: left;
   padding: 0.5em;
 }
+.section.size100{
+  width: 100%;
+}
 @media screen and (max-width: 900px) {
   .container{
     width: 500px;

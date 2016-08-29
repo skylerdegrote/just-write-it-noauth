@@ -27,6 +27,14 @@ $pageTitle = "About";
         <p>My Name is Skyler. I am a writer, programmer and cat lover. I've been writing since I was 12 and
             I've been an author since I was 18.</p>
     </div>
+    <div class="section size100">
+        <h3>Credit goes to...</h3>
+        <p>
+            Ideas and posts that are on this website are from a lot of different sources. Most of the resources will
+            list where they come from at the bottom of the page. Some specific sources will be listed here once there is
+            more content on the website.
+        </p>
+    </div>
 </div>
 
 <?php include('includes/footer.php') ?>
