@@ -3,4 +3,24 @@
 
 .container{
   min-height:650px;
+  padding-top:250px;
+  width:1100px;
+  margin:0 auto;
+}
+
+//// CARD STYLES
+.demo-card-wide.mdl-card {
+  width: 512px;
+  float: left;
+  margin-right: 20px;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  //background: url('../assets/demos/welcome_card.jpg') center / cover;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+  margin: 50px;
+
 }

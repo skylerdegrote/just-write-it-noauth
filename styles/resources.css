@@ -16,6 +16,22 @@ body {
   clear: both; }
 
 .container {
-  min-height: 650px; }
+  min-height: 650px;
+  padding-top: 250px;
+  width: 1100px;
+  margin: 0 auto; }
+
+.demo-card-wide.mdl-card {
+  width: 512px;
+  float: left;
+  margin-right: 20px; }
+
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px; }
+
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+  margin: 50px; }
 
 /*# sourceMappingURL=resources.css.map */
