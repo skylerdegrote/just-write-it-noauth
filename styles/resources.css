@@ -24,7 +24,7 @@ body {
 .section {
   float: left; }
 
-.writepractice {
+.writepractice, .scrivener {
   width: 50%; }
 
 .demo-card-square.mdl-card {
@@ -55,7 +55,10 @@ body {
     width: 320px;
     height: 320px;
     float: left;
-    margin-bottom: 25px; } }
+    margin-bottom: 25px; }
+
+  .writepractice, .scrivener {
+    width: 90%; } }
 .mdl-color--white {
   padding: 30px; }
 
@@ -68,6 +71,9 @@ body {
   .demo-card-square.mdl-card {
     width: 320px;
     height: 320px;
-    float: none; } }
+    float: none; }
+
+  .writepractice, .scrivener {
+    width: 500px; } }
 
 /*# sourceMappingURL=resources.css.map */

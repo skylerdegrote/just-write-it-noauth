@@ -1,6 +1,6 @@
 <?php
 
-$pageTitle = "Resources";
+$pageTitle = "The Write Practice as a Resource";
 
 
 ?>

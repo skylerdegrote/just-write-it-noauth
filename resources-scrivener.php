@@ -1,6 +1,6 @@
 <?php
 
-$pageTitle = "Resources";
+$pageTitle = "Scrivener as a Resource";
 
 
 ?>
@@ -14,7 +14,30 @@ $pageTitle = "Resources";
 </head>
 <body>
 <?php include ('includes/navigation.php') ?>
-scrivener
+<div class="container">
+    <div class="section scrivener">
+        <div class="demo-container mdl-grid">
+            <div class="mdl-cell mdl-cell--2-col mdl-cell--hide-tablet mdl-cell--hide-phone"></div>
+            <div class="mdl-color--white mdl-shadow--4dp">
+                <h3>Scrivener</h3>
+                <p>dolore consectetur aliqua elit. dolore consectetur aliqua elit. dolore consectetur aliqua elit.</p>
+                <p>dolore consectetur aliqua elit. dolore consectetur aliqua elit.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="section scrivener">
+        <div class="demo-container mdl-grid">
+            <div class="mdl-cell mdl-cell--2-col mdl-cell--hide-tablet mdl-cell--hide-phone"></div>
+            <div class="mdl-color--white mdl-shadow--4dp">
+                <h3>Scrivener</h3>
+                <p>dolore consectetur aliqua elit. dolore consectetur aliqua elit. dolore consectetur aliqua elit.</p>
+                <p>dolore consectetur aliqua elit. dolore consectetur aliqua elit.</p>
+
+            </div>
+        </div>
+    </div>
+</div>
 
 <?php include('includes/footer.php') ?>
 </body>

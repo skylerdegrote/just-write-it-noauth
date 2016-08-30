@@ -12,7 +12,7 @@
   float: left;
 }
 
-.writepractice{
+.writepractice, .scrivener{
   width:50%;
 }
 
@@ -54,7 +54,9 @@
     float: left;
     margin-bottom:25px;
   }
-
+  .writepractice, .scrivener{
+    width:90%;
+  }
 }
 .mdl-color--white{
   padding:30px;
@@ -70,7 +72,9 @@
     height: 320px;
     float: none;
   }
-
+  .writepractice, .scrivener{
+    width:500px;
+  }
 }
 
 

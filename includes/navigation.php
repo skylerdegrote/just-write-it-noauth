@@ -39,7 +39,11 @@
                                 <div class="dropdown">
                                     <div class="dd-inner">
                                         <ul class="column">
+                                            <li><a href="../resources-writepractice.php">The Write Practice</a></li>
+                                            <li><a href="../resources-scrivener.php">Scrivener</a></li>
                                             <li><a href="#">Snowflake Method</a></li>
+
+<!--snowflake method:::::     http://www.advancedfictionwriting.com/articles/snowflake-method/-->
                                             <li><a href="#">Planning in Detail</a></li>
                                             <li><a href="#">Almost No Planning</a></li>
                                             <li><a href="#">Need to know</a></li>
