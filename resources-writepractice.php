@@ -16,14 +16,11 @@ $pageTitle = "The Write Practice as a Resource";
 <?php include ('includes/navigation.php') ?>
 <div class="container">
     <div class="section writepractice">
-        <div class="demo-container mdl-grid">
-            <div class="mdl-cell mdl-cell--2-col mdl-cell--hide-tablet mdl-cell--hide-phone"></div>
-            <div class="mdl-color--white mdl-shadow--4dp">
-                <h3>The Write Practice</h3>
-                <p>dolore consectetur aliqua elit. dolore consectetur aliqua elit. dolore consectetur aliqua elit.</p>
-                <p>dolore consectetur aliqua elit. dolore consectetur aliqua elit.</p>
-
+        <div class="demo-card-image mdl-card mdl-shadow--2dp writepractice">
+            <div class="mdl-card__title mdl-card--expand">
+                <img src="images/resources/thewritepractice-type.png">
             </div>
+
         </div>
     </div>
     <div class="section writepractice">
