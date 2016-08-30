@@ -21,6 +21,12 @@ body {
   width: 1036px;
   margin: 0 auto; }
 
+.section {
+  float: left; }
+
+.writepractice {
+  width: 50%; }
+
 .demo-card-square.mdl-card {
   width: 320px;
   height: 320px;
@@ -42,7 +48,7 @@ body {
   .container {
     min-height: 1050px;
     padding-top: 250px;
-    width: 700px;
+    min-width: 700px;
     margin: 0 auto; }
 
   .demo-card-square.mdl-card {
@@ -50,6 +56,9 @@ body {
     height: 320px;
     float: left;
     margin-bottom: 25px; } }
+.mdl-color--white {
+  padding: 30px; }
+
 @media screen and (max-width: 650px) {
   .container {
     min-height: 950px;

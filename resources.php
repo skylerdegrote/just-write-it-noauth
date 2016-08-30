@@ -23,7 +23,7 @@ $pageTitle = "Resources";
             The Write Practice is a great place to go when you are looking for some...
         </div>
         <div class="mdl-card__actions mdl-card--border">
-            <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+            <a href="resources-writepractice.php" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
                 Read More
             </a>
         </div>
@@ -36,7 +36,7 @@ $pageTitle = "Resources";
            Scrivener is a great program. Of course there are others out there, but...
         </div>
         <div class="mdl-card__actions mdl-card--border">
-            <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+            <a href="resources-scrivener.php" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
                Learn More
             </a>
         </div>
