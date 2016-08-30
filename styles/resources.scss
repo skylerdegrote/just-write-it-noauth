@@ -15,8 +15,51 @@
   float: left;
   margin-right:25px;
 }
+
 .demo-card-square > .mdl-card__title {
-  color: #fff;
-  //background:
-          //url('../assets/demos/dog.png') bottom right 15% no-repeat #46B6AC;
+  color: $white;
+  background: $darkBlue;
 }
+
+/////modified card styles
+.mdl-card__title-text{
+  margin:0 auto;
+  padding-top:120px;
+}
+.mdl-card__title-text img{
+  height:200px;
+}
+
+
+
+
+@media screen and (max-width: 1050px) {
+  .container{
+    min-height:1050px;
+    padding-top:250px;
+    width:700px;
+    margin:0 auto;
+  }
+  .demo-card-square.mdl-card {
+    width: 320px;
+    height: 320px;
+    float: left;
+    margin-bottom:25px;
+  }
+
+}
+@media screen and (max-width: 650px) {
+  .container{
+    min-height:950px;
+    width:350px;
+    margin:0 auto;
+  }
+  .demo-card-square.mdl-card {
+    width: 320px;
+    height: 320px;
+    float: none;
+  }
+
+}
+
+

@@ -17,31 +17,27 @@ $pageTitle = "Resources";
 <div class="container">
 <!--card-->
     <div class="demo-card-square mdl-card mdl-shadow--2dp">
-        <div class="mdl-card__title mdl-card--expand">
-            <h2 class="mdl-card__title-text">Update</h2>
-        </div>
+                <img src="images/resources/thewritepractice200.png">
+
         <div class="mdl-card__supporting-text">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Aenan convallis.
+            The Write Practice is a great place to go when you are looking for some...
         </div>
         <div class="mdl-card__actions mdl-card--border">
             <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-                View Updates
+                Read More
             </a>
         </div>
     </div>
 <!--card-->
     <div class="demo-card-square mdl-card mdl-shadow--2dp">
-        <div class="mdl-card__title mdl-card--expand">
-            <h2 class="mdl-card__title-text">Update</h2>
-        </div>
+        <img src="images/resources/scrivener200.png">
+
         <div class="mdl-card__supporting-text">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Aenan convallis.
+           Scrivener is a great program. Of course there are others out there, but...
         </div>
         <div class="mdl-card__actions mdl-card--border">
             <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-                View Updates
+               Learn More
             </a>
         </div>
     </div>
