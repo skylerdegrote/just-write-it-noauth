@@ -10,17 +10,19 @@
 
 .section{
   float: left;
+  margin:0;
+  padding:0;
 }
 
 .writepractice, .scrivener{
-  width:50%;
+  width:40%;
 }
 
 .writepractice img{
   width:100%;
 }
 
-//// CARD STYLES
+//// CARD STYLES - SQUARE top level resources page
 .demo-card-square.mdl-card {
   width: 320px;
   height: 320px;
@@ -33,7 +35,7 @@
   background: $darkBlue;
 }
 
-/////modified card styles
+/////resource top level page styles
 .mdl-card__title-text{
   margin:0 auto;
   padding-top:120px;
@@ -47,7 +49,6 @@
 .demo-card-image.mdl-card {
   width: 256px;
   height: 256px;
-  background: url('../assets/demos/image_card.jpg') center / cover;
 }
 .demo-card-image > .mdl-card__actions {
   height: 52px;
