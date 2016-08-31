@@ -25,6 +25,10 @@ This is why I am going to open it up to the users! As a member, you'll be able t
 * Writer's Digest (future addition)
 * Write To Done (future addition)
 
+###Step by Step How To's Included
+* How to use Scrivener Effectively
+* How build a main character
+
 ### Social Media
 [@justwriteitnow](https://twitter.com/justwriteitnow "Just Write It Twitter")
 
