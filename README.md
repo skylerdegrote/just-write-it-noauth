@@ -34,6 +34,6 @@ This is why I am going to open it up to the users! As a member, you'll be able t
 ### Social Media
 [@justwriteitnow](https://twitter.com/justwriteitnow "Just Write It Twitter")
 
-https://www.meetup.com/Creative-Writing-RochesterMN/
+[Meet Up Group](https://www.meetup.com/Just-Write-It-RochesterMN/)
 
-https://justwriteit.slack.com/ - To join the slack group, please visit this page: https://justwriteit.signup.team/
+[Slack Group](https://justwriteit.slack.com/) - To join the slack group, please visit this page: https://justwriteit.signup.team/
