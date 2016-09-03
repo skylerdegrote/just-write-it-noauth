@@ -20,4 +20,11 @@
   text-align: center;
   margin: 0; }
 
+@media screen and (max-width: 1050px) {
+  .container h1 {
+    font-size: 40px; }
+
+  .container h3 {
+    font-size: 20px; } }
+
 /*# sourceMappingURL=home.css.map */

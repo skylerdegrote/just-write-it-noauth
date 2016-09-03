@@ -1,16 +1,18 @@
 @import "variables";
 @import "main";
-
+//main.container{
+//  margin:0 auto;
+//  width: 1000px;
+//}
 .container{
   min-height:650px;
-  padding-top:250px;
+  padding-top:180px;
   width:1036px;
   margin:0 auto;
 }
 
 .section{
   float: left;
-  margin:0;
   padding:0;
 }
 
@@ -63,25 +65,27 @@
 
 @media screen and (max-width: 1050px) {
   .container{
-    min-height:1050px;
-    padding-top:250px;
-    min-width:700px;
+//    min-height:1050px;
+//    padding-top:250px;
+    max-width:1000px;
     margin:0 auto;
   }
   .demo-card-square.mdl-card {
-    width: 320px;
+    width: 31%;
     height: 320px;
     float: left;
     margin-bottom:25px;
+    //margin-left: auto;
+    //margin-right:auto;
   }
-  .writepractice, .scrivener{
-    width:90%;
+//  .writepractice, .scrivener{
+//    width:90%;
+//  }
+//}
+//.mdl-color--white{
+//    padding:30px;}
   }
-}
-.mdl-color--white{
-  padding:30px;
-}
-@media screen and (max-width: 650px) {
+  @media screen and (max-width: 600px) {
   .container{
     min-height:950px;
     width:350px;

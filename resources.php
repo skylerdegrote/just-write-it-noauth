@@ -14,7 +14,7 @@ $pageTitle = "Resources";
 </head>
 <body>
 <?php include ('includes/navigation.php') ?>
-<div class="container">
+<main class="container">
 <!--card-->
     <div class="demo-card-square mdl-card mdl-shadow--2dp">
                 <img src="images/resources/thewritepractice200.png">
@@ -28,6 +28,7 @@ $pageTitle = "Resources";
             </a>
         </div>
     </div>
+
 <!--card-->
     <div class="demo-card-square mdl-card mdl-shadow--2dp">
         <img src="images/resources/scrivener200.png">
@@ -56,7 +57,7 @@ $pageTitle = "Resources";
             </a>
         </div>
     </div>
-</div>
+</main>
 
 <?php include('includes/footer.php') ?>
 </body>
