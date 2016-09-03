@@ -63,13 +63,13 @@ body {
   font-weight: 500; }
 
 @media screen and (max-width: 1050px) {
-  .container {
-    max-width: 1000px;
+  main {
+    width: 900px;
     margin: 0 auto; }
 
   .demo-card-square.mdl-card {
-    width: 31%;
-    height: 320px;
+    width: 35%;
+    min-height: 320px;
     float: left;
     margin-bottom: 25px; } }
 @media screen and (max-width: 600px) {

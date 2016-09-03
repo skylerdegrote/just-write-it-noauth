@@ -64,15 +64,16 @@
 }
 
 @media screen and (max-width: 1050px) {
-  .container{
+  main{
 //    min-height:1050px;
 //    padding-top:250px;
-    max-width:1000px;
+    width:900px;
     margin:0 auto;
   }
+
   .demo-card-square.mdl-card {
-    width: 31%;
-    height: 320px;
+    width: 35%;
+    min-height: 320px;
     float: left;
     margin-bottom:25px;
     //margin-left: auto;
