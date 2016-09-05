@@ -62,29 +62,30 @@ body {
   font-size: 14px;
   font-weight: 500; }
 
-@media screen and (max-width: 1050px) {
-  main {
-    width: 900px;
-    margin: 0 auto; }
-
-  .demo-card-square.mdl-card {
-    width: 35%;
-    min-height: 320px;
-    float: left;
-    margin-bottom: 25px;
-    margin-left: auto; } }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1100px) {
   .container {
     min-height: 950px;
-    width: 350px;
+    width: 690px;
     margin: 0 auto; }
 
   .demo-card-square.mdl-card {
     width: 320px;
     height: 320px;
-    float: none; }
+    float: left;
+    margin-bottom: 20px; } }
+@media screen and (max-width: 700px) {
+  .container {
+    min-height: 950px;
+    width: 250px;
+    margin: 0 auto; }
+
+  .demo-card-square.mdl-card {
+    width: 320px;
+    height: 320px;
+    float: none;
+    margin-bottom: 20px; }
 
   .writepractice, .scrivener {
-    width: 500px; } }
+    width: 800px; } }
 
 /*# sourceMappingURL=resources.css.map */
