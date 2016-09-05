@@ -71,7 +71,8 @@ body {
     width: 35%;
     min-height: 320px;
     float: left;
-    margin-bottom: 25px; } }
+    margin-bottom: 25px;
+    margin-left: auto; } }
 @media screen and (max-width: 600px) {
   .container {
     min-height: 950px;
