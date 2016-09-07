@@ -21,6 +21,12 @@ body {
   width: 1036px;
   margin: 0 auto; }
 
+.scrivenerContainer {
+  width: 1250px;
+  margin: 0 auto;
+  padding-top: 180px;
+  min-height: 650px; }
+
 .section {
   float: left;
   padding: 0; }
