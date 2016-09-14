@@ -21,7 +21,6 @@ This is why I am going to open it up to the users! As a member, you'll be able t
 
 ###The Resources Included
 * The Write Practice
-* Scrivener
 * Writer's Digest (future addition)
 * Write To Done (future addition)
 
