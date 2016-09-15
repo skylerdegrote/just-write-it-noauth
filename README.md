@@ -26,6 +26,7 @@ This is why I am going to open it up to the users! As a member, you'll be able t
 
 ###Step by Step How To's Included
 * How to use Scrivener Effectively
+* What is a scene vs what is a chapter
 * How to build a main character
 * How to build non-main characters with the amount of detail you may still need in your book
 * How to design a setting and use it well (future addition)
