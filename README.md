@@ -1,10 +1,10 @@
  
 ![Just Write It Logo](images/logo-web.png "Just Write It Logo")
 # Just Write It
-A Writing Resource website for anyone interested in writing
+A Writing Resource website for anyone interested in writing. From beginner to expert and from fiction to non fiction. I'll try to include all types of resources! Email me at creativewritingroch@gmail.com if you have any resources to share!
 
 ### Author
-My name is Skyler DeGrote. I am a writer, author and software engineer. I love learning and as I create this website I'm learning all new languages that I've never used before. For a list of them, see below.
+My name is Skyler. I am a writer, author and software engineer. I love learning and as I create this website I'm learning all new languages. For a list of them, see below.
 
 ### Languages Used
 * PHP
