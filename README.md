@@ -10,9 +10,7 @@ My name is Skyler. I am a writer, author and software engineer. I love learning 
 * PHP
 * SASS
 * Material Design Lite
-
-### Future updates - User Authentication
-* MySQL
+* MySQL (future addition)
 * PHPmyAdmin
 
 ### The Plan
