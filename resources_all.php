@@ -22,7 +22,7 @@ $pageTitle = "All Resources";
                 <div class="card-img"><img></div>
             </div>
             <div class="card-footer">
-                <div class="card-link"></div>
+                <div class="card-link"><a href="index.php">Read More</a> </div>
             </div>
         </div>
         <div class="card">
@@ -31,7 +31,7 @@ $pageTitle = "All Resources";
                 <div class="card-img"><img></div>
             </div>
             <div class="card-footer">
-                <div class="card-link"></div>
+                <div class="card-link"><a href="index.php">Read More</a> </div>
             </div>
         </div>
         <div class="card">
@@ -40,7 +40,7 @@ $pageTitle = "All Resources";
                 <div class="card-img"><img></div>
             </div>
             <div class="card-footer">
-                <div class="card-link"></div>
+                <div class="card-link"><a href="index.php">Read More</a> </div>
             </div>
         </div>
     </main>

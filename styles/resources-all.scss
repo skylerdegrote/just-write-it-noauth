@@ -32,9 +32,10 @@
 }
 
 .card-link a {
-  color: $orange;
+  color: $darkBlue;
   text-decoration: underline;
 }
+
 
 .card-footer{
   font-size: 20px;
@@ -43,6 +44,8 @@
   min-height:70px;
   padding:25px;
   text-align: center;
+  position: relative;
+  z-index: 10001;
 }
 
 .card-image{

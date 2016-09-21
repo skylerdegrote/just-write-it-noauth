@@ -41,7 +41,7 @@ body {
   min-height: 150px; }
 
 .card-link a {
-  color: #f69d1d;
+  color: #171144;
   text-decoration: underline; }
 
 .card-footer {
@@ -50,6 +50,8 @@ body {
   background-color: #ffffff;
   min-height: 70px;
   padding: 25px;
-  text-align: center; }
+  text-align: center;
+  position: relative;
+  z-index: 10001; }
 
 /*# sourceMappingURL=resources-all.css.map */

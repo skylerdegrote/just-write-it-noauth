@@ -34,13 +34,12 @@
                                 <a class="top-heading" href="../about.php">About</a>
                             </li>
                             <li>
-                                <span class="top-heading"><a href="../resources.php">Resources</a> </span>
+                                <span class="top-heading"><a href="../resources_all.php">Resources</a> </span>
                                 <i class="caret"></i>
                                 <div class="dropdown">
                                     <div class="dd-inner">
                                         <ul class="column">
                                             <li><a href="../resources-writepractice.php">The Write Practice</a></li>
-                                            <li><a href="../resources-scrivener.php">Scrivener</a></li>
                                             <li><a href="#">Snowflake Method</a></li>
 
 <!--snowflake method:::::     http://www.advancedfictionwriting.com/articles/snowflake-method/-->
