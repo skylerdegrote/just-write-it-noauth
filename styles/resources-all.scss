@@ -4,11 +4,47 @@
 .container{
   min-height:650px;
   padding-top:180px;
-  width:1036px;
+  width:1106px;
   margin:0 auto;
 }
 
 // CARDS
 .card{
+  height: 300px;
+  width: 300px;
+  background-color: $darkBlue;
+  padding: 10px;
+  color: $teal;
+  float: left;
+  margin-left: 50px;
+}
+
+.card-title{
+  padding-top:20px;
+  font-size: 20px;
+  font-weight: bold;
+  border-bottom: 2px solid $white;
+  margin-bottom:15px;
+}
+
+.card-body{
+  min-height:150px;
+}
+
+.card-link a {
+  color: $orange;
+  text-decoration: underline;
+}
+
+.card-footer{
+  font-size: 20px;
+  font-weight: bold;
+  background-color: $white;
+  min-height:70px;
+  padding:25px;
+  text-align: center;
+}
+
+.card-image{
 
 }

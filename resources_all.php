@@ -19,16 +19,35 @@ $pageTitle = "All Resources";
         <div class="card">
             <div class="card-title">Title</div>
             <div class="card-body">body text goes here
-                <div class="card-link"><a href="#">link</a></div>
+                <div class="card-img"><img></div>
             </div>
-            <div class="card-footer">Footer</div>
+            <div class="card-footer">
+                <div class="card-link"></div>
+            </div>
         </div>
-
+        <div class="card">
+            <div class="card-title">Title</div>
+            <div class="card-body">body text goes here
+                <div class="card-img"><img></div>
+            </div>
+            <div class="card-footer">
+                <div class="card-link"></div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-title">Title</div>
+            <div class="card-body">body text goes here
+                <div class="card-img"><img></div>
+            </div>
+            <div class="card-footer">
+                <div class="card-link"></div>
+            </div>
+        </div>
     </main>
-
 
 
 
 <?php include('includes/footer.php') ?>
 </body>
 </html>
+

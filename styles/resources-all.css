@@ -18,7 +18,38 @@ body {
 .container {
   min-height: 650px;
   padding-top: 180px;
-  width: 1036px;
+  width: 1106px;
   margin: 0 auto; }
+
+.card {
+  height: 300px;
+  width: 300px;
+  background-color: #171144;
+  padding: 10px;
+  color: #5ec2a4;
+  float: left;
+  margin-left: 50px; }
+
+.card-title {
+  padding-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  border-bottom: 2px solid #ffffff;
+  margin-bottom: 15px; }
+
+.card-body {
+  min-height: 150px; }
+
+.card-link a {
+  color: #f69d1d;
+  text-decoration: underline; }
+
+.card-footer {
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #ffffff;
+  min-height: 70px;
+  padding: 25px;
+  text-align: center; }
 
 /*# sourceMappingURL=resources-all.css.map */
