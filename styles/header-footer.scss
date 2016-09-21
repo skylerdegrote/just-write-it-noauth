@@ -28,6 +28,7 @@ footer {
 }
 .spritelogo img{
   height:150px;
+  overflow: hidden;
 }
 .spritelogo{
   max-height: 200px;
@@ -35,9 +36,8 @@ footer {
   overflow: hidden;
   float: left;
   margin-right:150px;
-
 }
-@media only screen and (max-width: 900px){
+@media only screen and (max-width: 700px){
   .logoImg{
     overflow: hidden;
     height: 60px;
@@ -57,6 +57,13 @@ footer {
     overflow: hidden;
     background-position: -100 -90;
     float: left;
+  }
+  footer{
+    margin-top:200px;
+  }
+  header{
+    overflow: hidden;
+    max-height:100px;
   }
 }
 

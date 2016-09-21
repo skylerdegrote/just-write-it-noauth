@@ -20,7 +20,8 @@ footer {
   padding-top: 40px; }
 
 .spritelogo img {
-  height: 150px; }
+  height: 150px;
+  overflow: hidden; }
 
 .spritelogo {
   max-height: 200px;
@@ -29,7 +30,7 @@ footer {
   float: left;
   margin-right: 150px; }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 700px) {
   .logoImg {
     overflow: hidden;
     height: 60px;
@@ -47,6 +48,13 @@ footer {
     max-height: 100px;
     overflow: hidden;
     background-position: -100 -90;
-    float: left; } }
+    float: left; }
+
+  footer {
+    margin-top: 200px; }
+
+  header {
+    overflow: hidden;
+    max-height: 100px; } }
 
 /*# sourceMappingURL=header-footer.css.map */
