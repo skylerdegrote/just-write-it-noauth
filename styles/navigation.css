@@ -20,7 +20,8 @@ a {
 
 .mdl-layout__drawer {
   background-color: #171144;
-  color: #5ec2a4; }
+  color: #5ec2a4;
+  z-index: 100001; }
 
 .mdl-navigation {
   color: #5ec2a4; }
