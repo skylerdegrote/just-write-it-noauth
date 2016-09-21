@@ -28,7 +28,8 @@ body {
   padding: 10px;
   color: #5ec2a4;
   float: left;
-  margin-left: 50px; }
+  margin-left: 50px;
+  margin-top: 50px; }
 
 .card-title {
   padding-top: 20px;

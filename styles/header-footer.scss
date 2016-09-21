@@ -6,12 +6,16 @@
 header {
   background-color: $darkBlue;
   height: 150px;
+  position: absolute;
 }
 
 // Footer Styles
 footer {
   background-color: $darkBlue;
   min-height: 150px;
+  margin-top:300px;
+
+
 }
 .logoImg{
   overflow: hidden;

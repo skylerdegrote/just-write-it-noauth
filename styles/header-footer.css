@@ -1,10 +1,12 @@
 header {
   background-color: #171144;
-  height: 150px; }
+  height: 150px;
+  position: absolute; }
 
 footer {
   background-color: #171144;
-  min-height: 150px; }
+  min-height: 150px;
+  margin-top: 300px; }
 
 .logoImg {
   overflow: hidden;
