@@ -1,7 +1,13 @@
 @import "variables";
 @import "main";
 
-.container{
+// override some styles
+footer{
+  margin-top:300px;
+
+}
+
+.cardContainer{
   min-height:650px;
   padding-top:180px;
   width:1106px;

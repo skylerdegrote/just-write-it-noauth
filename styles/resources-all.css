@@ -15,7 +15,10 @@ body {
 .clearfix {
   clear: both; }
 
-.container {
+footer {
+  margin-top: 300px; }
+
+.cardContainer {
   min-height: 650px;
   padding-top: 180px;
   width: 1106px;
