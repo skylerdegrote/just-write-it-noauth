@@ -12,7 +12,7 @@ $resourceBody = ["The Write Practice is a great way to receive daily tips and tr
 <!doctype html>
 <html>
 <head>
-    <title><?php   echo $pageTitle  ?></title>
+    <title><?php echo $pageTitle ?></title>
 
     <link rel="stylesheet" href="styles/main.css">
     <link rel="stylesheet" href="styles/resources-all.css">
