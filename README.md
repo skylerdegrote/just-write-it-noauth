@@ -7,7 +7,7 @@ A Writing Resource website for anyone interested in writing. From beginner to ex
 My name is Skyler. I am a writer, author and software engineer. I love learning and as I create this website I'm learning all new languages. For a list of them, see below.
 
 ###Go-Live Plan
-My plan is to go live before the 5th of October. 
+My plan is to go live before the end of October. 
 
 ### Languages Used
 * PHP
